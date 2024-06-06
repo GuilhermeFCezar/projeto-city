@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    height: auto;
+    border: solid black 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.tabela{
+    display: flex;
+    flex-direction: column;
+    gap:  10px;
+    width: 100%;
+}
+
+.tabela th{
+    width: 33%;
+    border: solid black 1px;
+    padding: 15px;
+}
+
+.tabela td{
+    width: 35%;
+    border: solid black 1px;
+    padding: 15px;
+}

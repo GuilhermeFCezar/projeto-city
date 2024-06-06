@@ -1,0 +1,36 @@
+{
+  "Bonecos": [
+    {
+      "id": "6fdf",
+      "nome": "Boneca da frozen",
+      "preco": "",
+      "imagem": "https://m.media-amazon.com/images/I/511+DF7nejL._AC_SY300_SX300_.jpg",
+      "descricao": "Let it go",
+      "valor": "677"
+    },
+    {
+      "id": "8ee7",
+      "nome": "Boneca da frozen 2",
+      "preco": "",
+      "imagem": "https://m.media-amazon.com/images/I/511+DF7nejL._AC_SY300_SX300_.jpg",
+      "descricao": "Let it go",
+      "valor": "3"
+    },
+    {
+      "id": "5f10",
+      "nome": "Boneca da frozen",
+      "preco": "",
+      "imagem": "",
+      "descricao": "Let it go",
+      "valor": "666"
+    },
+    {
+      "id": "196e",
+      "nome": "lenin",
+      "preco": "",
+      "imagem": "https://m.media-amazon.com/images/I/511+DF7nejL._AC_SY300_SX300_.jpg",
+      "descricao": "comuna",
+      "valor": "0"
+    }
+  ]
+}

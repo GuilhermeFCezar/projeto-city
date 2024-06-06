@@ -1,0 +1,95 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.menu{
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav-menu ul .link{
+  display: inline;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.nav-menu ul .link:hover{
+color: black;
+font-size: 22px;
+cursor: pointer;
+transition: 0.5s;
+}
+.container{
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.produtos{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0  20px;
+}
+
+.btn{
+  border:2px solid black;
+  padding: 7px 20px;
+  border-radius: 70px;
+  font-size: 20px;
+  color:white;
+  letter-spacing: 1px;
+  text-decoration: none;
+  transition: 0.35s;
+  background-color: black;
+}
+.btn:hover{
+  color: black;
+  background-color: white;
+}
+.login{
+  width: 100%;
+  height: 400px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+ 
+}
+p {
+  margin-top: 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+#user{
+  padding: 10px;
+  width: 200px;
+  margin-left:20px;
+  height: 30px;
+}
+#senha{
+  width: 200px;
+  margin-left:40px;
+  height: 30px
+}
+input{
+  padding-left:20px;
+}
+#btnlogin{
+  width: 80px;
+  height: 50px;
+  margin-left: 40%;
+  margin-top: 50px; 
+}
+#btnlogin:hover{
+  background-color: #000;
+  color:aqua;
+}

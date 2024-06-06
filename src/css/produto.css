@@ -1,0 +1,23 @@
+
+.div-form{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+.form{
+    border: solid black 5px;
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 16px 8px;
+    gap: 10px;
+}
+
+.form input{
+    height: 6vh;
+    font-size: 15px;
+}
+.form button{
+    height: 5vh;
+}
